@@ -1,4 +1,4 @@
-# Insightful-Customer-Segmentation
+# Comprehensive Sales Performance and Customer Segmentation Analysis
 
 Sales Data Analysis and Visualization:
 Conducted comprehensive analysis of sales data using SQL, including querying unique values, grouping sales by various dimensions (product line, year, deal size), and identifying trends such as peak sales periods and top-performing products.
